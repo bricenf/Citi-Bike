@@ -1,0 +1,44 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../../../Downloads/2023-citibike-tripdata/1_January"
+		},
+		{
+			"path": "../../../Downloads/2023-citibike-tripdata/2_February"
+		},
+		{
+			"path": "../../../Downloads/2023-citibike-tripdata/3_March"
+		},
+		{
+			"path": "../../../Downloads/2023-citibike-tripdata/4_April"
+		},
+		{
+			"path": "../../../Downloads/2023-citibike-tripdata/5_May"
+		},
+		{
+			"path": "../../../Downloads/2023-citibike-tripdata/6_June"
+		},
+		{
+			"path": "../../../Downloads/2023-citibike-tripdata/7_July"
+		},
+		{
+			"path": "../../../Downloads/2023-citibike-tripdata/8_August"
+		},
+		{
+			"path": "../../../Downloads/2023-citibike-tripdata/9_September"
+		},
+		{
+			"path": "../../../Downloads/2023-citibike-tripdata/10_October"
+		},
+		{
+			"path": "../../../Downloads/2023-citibike-tripdata/11_November"
+		},
+		{
+			"path": "../../../Downloads/2023-citibike-tripdata/12_December"
+		}
+	],
+	"settings": {}
+}
