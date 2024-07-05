@@ -1,5 +1,7 @@
 # Citi-Bike Data Analysis
 
+Current released version: https://github.com/bricenf/Citi-Bike#:~:text=FinalVersionReleased.ipynb
+
 An unpublished version uses climate/environment raster data to overlay Citi-Bike usage during particular weather conditions such as heat/rain/etc. It could be used to understand how New Yorkers use Citi-Bikes during particular weather occurances. Therefore, we could integrate different micro-transit or mass-transit solutions in robust ways to adapt to weather. Additionally, it uses Open-Street-Map data to find openly sourced public resources (such as libraries, parks, etc.) and private resources (hotels, food options, etc.) to see where Citi-Bikes are most active. 
 
 Data uses Open Source Maps and Citi-Bike data directly from Lyft. 
